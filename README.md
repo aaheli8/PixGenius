@@ -1,1 +1,6 @@
-## PIXGENIUS
+## 📡PiXGenius
+PixGenius under the category Gen AI - Image Translation.
+For this project we are going to convert satellite images to google map earth images. The reason behind doing this project 1. By converting satellite images to Google Earth format, we make valuable geographic information more readily available and user-friendly. 2.Furthermore, converting satellite images to Google Earth format aligns with the growing demand for geospatial data visualization and analysis. It supports various applications across industries, including urban planning, environmental monitoring, disaster management, agriculture, and infrastructure development. 3. The conversion of satellite images to Google Earth format serves to democratize access to geographic information, enhance user experience, and support a wide range of practical applications, ultimately contributing to advancements in research, planning, and decision-making processes worldwide. Pix2pix is an image-to-image translation technique that uses conditional generative adversarial networks (cGANs).
+Given a training set containing pairs of related images (referred to as “A” and “B”), a pix2pix model learns how to convert an image of type “A” into an image of type “B".
+
+
